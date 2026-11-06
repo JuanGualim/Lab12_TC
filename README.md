@@ -6,7 +6,7 @@ superior (`map`, `filter`, `every`, `sort`) y no mutan los datos de entrada.
 
 ## Video de ejecución
 
-[Ver video en YouTube](PEGAR_AQUI_EL_LINK_DEL_VIDEO)
+[Ver video en YouTube](https://youtu.be/xCAWFGMzdVU)
 
 ## Estructura
 
